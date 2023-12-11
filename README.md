@@ -34,7 +34,7 @@
 4. Encoder Decoder, Attention is all you need
 5. Trnasformers
 
-## 5. Starting the Journey Towards Generative AI (GPT4,Mistral 7B, LLAMA, Hugging Face Open Source LLM Models)
+## 5. Starting the Journey Towards Generative AI (GPT4,Mistral 7B, LLAMA, Hugging Face Open Source LLM Models,Google Palm Model)
 ![image](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/ebaa03ec-4370-4ea0-989d-5314370cd2da)
 
 1. OpenAI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=CbpsDMwFG2g&list=PLZoTAELRMXVMTWGW9iS45ZTcMsntos6VO)

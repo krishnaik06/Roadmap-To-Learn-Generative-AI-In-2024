@@ -39,6 +39,28 @@
 
 1. OpenAI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=CbpsDMwFG2g&list=PLZoTAELRMXVMTWGW9iS45ZTcMsntos6VO)
 
+![image](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/986bc005-e6c3-4f41-b678-82e0c0c2aa4a)
+
+
+2. Langchain Tutorials With Projects [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
+
+3. Chainlit [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://docs.chainlit.io/get-started/overview)
+
+## 5. Vector Databases And Vector Stores
+
+1. ChromaDB
+2. FAISS vector database, which makes use of the Facebook AI Similarity Search (FAISS) library
+3. LanceDB vector database based on the Lance data format
+4. Cassandra DB For storing Vectors
+
+## 6. Deployment Of LLM Projects
+
+1. AWS
+2. Azure
+3. LangSmith
+4. LangServe
+5. HuggingFace Spaces
+
 
 
 

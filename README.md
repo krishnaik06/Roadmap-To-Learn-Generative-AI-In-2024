@@ -61,6 +61,12 @@
 4. LangServe
 5. HuggingFace Spaces
 
+## iNeuron Free Community Generative Ai Series [![YouTube](https://img.shields.io/badge/freecourse-link-green)](https://ineuron.ai/course/generative-ai-community-edition-hinglish)
+![image](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/e96eddca-5e19-45b3-8beb-bf95a80cc4db)
+
+
+
+
 
 
 

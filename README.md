@@ -20,7 +20,7 @@
 3. TFIDF
 4. Word2vec,AvgWord2vec
 
-## 3. Basic Deep Learning Concepts (Day 1- Day 5) [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
+## 3. Basic Deep Learning Concepts (Day 1- Day 5) [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
 
 1. ANN - Working Of MultiLayered Neural Network
 2. Forward Propogation, Backward Propogation

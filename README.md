@@ -45,6 +45,7 @@
 2. Langchain Tutorials With Projects [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
 
 3. Chainlit [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://docs.chainlit.io/get-started/overview)
+4. Google Gemini [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://ai.google.dev/tutorials/python_quickstart?authuser=1 )
 
 ## 5. Vector Databases And Vector Stores
 
